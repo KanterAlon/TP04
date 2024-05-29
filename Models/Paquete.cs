@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace TP04_Paquetes_Tur_sticos.Models
+namespace TP04_PaquetesTursticos.Models
 {
     public class Paquete
     {   

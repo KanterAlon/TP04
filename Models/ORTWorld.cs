@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace TP04_Paquetes_Tur_sticos.Models
+namespace TP04_Paquetes_Turisticos.Models
 {
     public class ORTWorld
-    {   
-        public List < string > ListaDestinos {get; private set;}
-        public List < string > ListaHoteles {get; private set;}
-        public List< string > ListaAereos {get; private set;}
-        public List< string > ListaExcursiones {get; private set;}
-        public Dictionary<string, Paquete> Paquetes {get; private set;}
+    {
+        public List<string> ListaDestinos { get; private set; }
+        public List<string> ListaHoteles { get; private set; }
+        public List<string> ListaAereos { get; private set; }
+        public List<string> ListaExcursiones { get; private set; }
+        public static Dictionary<string, List<Paquete>> Paquetes { get; private set; }
 
         public ORTWorld()
         {
@@ -71,10 +71,10 @@ namespace TP04_Paquetes_Tur_sticos.Models
                 "excursion10.jpg"
             };
 
-            Paquetes = new Dictionary<string, Paquete>();
+            Paquetes = new Dictionary<string, List<Paquete>>();
         }
 
-        public ORTWorld(List<string> listaDestinos, List<string> listaHoteles, List<string> listaAereos, List<string> listaExcursiones, Dictionary<string,Paquete> paquetes)
+        public ORTWorld(List<string> listaDestinos, List<string> listaHoteles, List<string> listaAereos, List<string> listaExcursiones, Dictionary<string, List<Paquete>> paquetes)
         {
             ListaDestinos = listaDestinos;
             ListaHoteles = listaHoteles;
@@ -83,16 +83,21 @@ namespace TP04_Paquetes_Tur_sticos.Models
             Paquetes = paquetes;
         }
 
-        static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
+        public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
         {
-            if(Paquetes.ContainsKey(destinoSeleccionado))
+            // Check if the destination already exists in the dictionary
+            if (Paquetes.ContainsKey(destinoSeleccionado))
             {
-
+                // Destination exists, add the package to the existing list
+                Paquetes[destinoSeleccionado].Add(paquete);
+                return true;
+            }
+            else
+            {
+                // Destination does not exist, create a new entry
+                Paquetes[destinoSeleccionado] = new List<Paquete> { paquete };
+                return true;
             }
         }
-
-
     }
-
-    
 }
