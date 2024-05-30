@@ -1,4 +1,4 @@
-namespace TP04_Paquetes_Tur_sticos.Models;
+namespace TP04_Paquetes_Turisticos.Models;
 
 public class ErrorViewModel
 {

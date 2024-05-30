@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using TP04_Paquetes_Tur_sticos.Models;
+using TP04_Paquetes_Turisticos.Models;
 
-namespace TP04_Paquetes_Tur_sticos.Controllers;
+namespace TP04_Paquetes_Turisticos.Models.Controllers;
 
 public class HomeController : Controller
 {

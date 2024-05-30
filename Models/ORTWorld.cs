@@ -7,11 +7,11 @@ namespace TP04_Paquetes_Turisticos.Models
 {
     public class ORTWorld
     {
-        public List<string> ListaDestinos { get; private set; }
-        public List<string> ListaHoteles { get; private set; }
-        public List<string> ListaAereos { get; private set; }
-        public List<string> ListaExcursiones { get; private set; }
-        public static Dictionary<string, List<Paquete>> Paquetes { get; private set; }
+        public static List<string> ListaDestinos { get; private set; }
+        public static List<string> ListaHoteles { get; private set; }
+        public static List<string> ListaAereos { get; private set; }
+        public static List<string> ListaExcursiones { get; private set; }
+        public static Dictionary<string, Paquete    > Paquetes { get; private set; }
 
         public ORTWorld()
         {
@@ -71,10 +71,10 @@ namespace TP04_Paquetes_Turisticos.Models
                 "excursion10.jpg"
             };
 
-            Paquetes = new Dictionary<string, List<Paquete>>();
+            Paquetes = new Dictionary<string, Paquete>();
         }
 
-        public ORTWorld(List<string> listaDestinos, List<string> listaHoteles, List<string> listaAereos, List<string> listaExcursiones, Dictionary<string, List<Paquete>> paquetes)
+        public ORTWorld(List<string> listaDestinos, List<string> listaHoteles, List<string> listaAereos, List<string> listaExcursiones, Dictionary<string, Paquete> paquetes)
         {
             ListaDestinos = listaDestinos;
             ListaHoteles = listaHoteles;
@@ -85,17 +85,13 @@ namespace TP04_Paquetes_Turisticos.Models
 
         public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
         {
-            // Check if the destination already exists in the dictionary
             if (Paquetes.ContainsKey(destinoSeleccionado))
             {
-                // Destination exists, add the package to the existing list
-                Paquetes[destinoSeleccionado].Add(paquete);
-                return true;
+                return false;
             }
             else
             {
-                // Destination does not exist, create a new entry
-                Paquetes[destinoSeleccionado] = new List<Paquete> { paquete };
+                Paquetes.Add(destinoSeleccionado, paquete);
                 return true;
             }
         }

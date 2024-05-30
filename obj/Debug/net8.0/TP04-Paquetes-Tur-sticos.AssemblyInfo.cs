@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP04-Paquetes-Tur-sticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be7820c259714e84c902368c51dd9d828175974")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0009aa0ae457ef9f178f7126344ceebc7b4024e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP04-Paquetes-Tur-sticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP04-Paquetes-Tur-sticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
