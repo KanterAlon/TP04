@@ -1,0 +1,21 @@
+<p>@ViewBag.MensajeError</p>
+
+@{
+    int destinoIndex = 0;
+    List<string> destinos = (List<string>)ViewBag.ListaDestinos;
+    List<string> hoteles = (List<string>)ViewBag.ListaHoteles;
+    List<string> excursiones = (List<string>)ViewBag.ListaExcursiones;
+    List<string> aereos = (List<string>)ViewBag.ListaAereos;
+
+    for (int i = 0; i < destinos.Count; i++)
+    {
+        <h2>Destino @i</h2>
+        <p><strong>Destino:</strong> @destinos[i]</p>
+        <h3>Hotel</h3>
+        <img src="/img/@hoteles[i]" width="200" height="auto" alt="Hotel @i"/>
+        <h3>Excursión</h3>
+        <img src="/img/@excursiones[i]" width="200" height="auto" alt="Excursión @i"/>
+        <h3>Aéreo</h3>
+        <img src="/img/@aereos[i]" width="200" height="auto" alt="Aéreo @i"/>
+    }
+}
