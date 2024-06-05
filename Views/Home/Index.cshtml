@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f0f0f0;
+        color: #333;
+    }
+    
+    
+    h1 {
+        font-size: 2.5em;
+        color: #007bff;
+    }
+    
+    p {
+        font-size: 1.2em;
+        margin-bottom: 20px;
+    }
+    
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
+    h2, h3 {
+        color: #0056b3;
+    }
+    
+    img {
+        display: block;
+        margin: 10px 0;
+    }
+    
+    div {
+        margin-top: 20px;
+    }
+    
+
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    int destinoIndex = 0;
+    List<string> destinos = (List<string>)ViewBag.ListaDestinos;
+    List<string> hoteles = (List<string>)ViewBag.ListaHoteles;
+    List<string> excursiones = (List<string>)ViewBag.ListaExcursiones;
+    List<string> aereos = (List<string>)ViewBag.ListaAereos;
+
+    if (destinos != null && hoteles != null && excursiones != null && aereos != null)
+    {
+        int count = Math.Min(Math.Min(destinos.Count, hoteles.Count), Math.Min(excursiones.Count, aereos.Count));
+
+        for (int i = 0; i < count; i++)
+        {
+            <h2>Destino @i</h2>
+            <p><strong>Destino:</strong> @destinos[i]</p>
+            <h3>Hotel</h3>
+            <img src="/img/@hoteles[i]" width="200" height="auto" alt="Hotel @i"/>
+            <h3>Excursión</h3>
+            <img src="/img/@excursiones[i]" width="200" height="auto" alt="Excursión @i"/>
+            <h3>Aéreo</h3>
+            <img src="/img/@aereos[i]" width="200" height="auto" alt="Aéreo @i"/>
+        }
+    }
+    else
+    {
+        <p>Información no disponible. Verifique que todas las listas de datos estén correctamente inicializadas.</p>
+    }
+}
+
+<div>
+    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
+</div>
