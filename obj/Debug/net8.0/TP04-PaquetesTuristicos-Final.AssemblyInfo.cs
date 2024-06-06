@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP04-PaquetesTuristicos-Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e693158d32b0b6852025b7363885ad9a39dd323")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0036b233d36db6fbabaa915450484f48a3703059")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP04-PaquetesTuristicos-Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP04-PaquetesTuristicos-Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

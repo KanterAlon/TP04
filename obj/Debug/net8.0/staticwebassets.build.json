@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oYM+Fj6xkeRbCjCQP0xx2Uj1RAv6eChn/Zc8Ypmkvo4=",
+  "Hash": "2AreaeJde2shHYWjrvcS5W1J1b9sB2D7wk98kIvzhfw=",
   "Source": "TP04-PaquetesTuristicos-Final",
   "BasePath": "_content/TP04-PaquetesTuristicos-Final",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP04-PaquetesTuristicos-Final\\wwwroot",
       "Source": "TP04-PaquetesTuristicos-Final",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP04-PaquetesTuristicos-Final.styles.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP04-PaquetesTuristicos-Final.styles.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "TP04-PaquetesTuristicos-Final.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP04-PaquetesTuristicos-Final.styles.css"
+      "OriginalItemSpec": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TP04-PaquetesTuristicos-Final.styles.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP04-PaquetesTuristicos-Final.bundle.scp.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP04-PaquetesTuristicos-Final.bundle.scp.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "TP04-PaquetesTuristicos-Final.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP04-PaquetesTuristicos-Final.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TP04-PaquetesTuristicos-Final.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\css\\site.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\favicon.ico",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo0.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo0.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo0.jpg",
       "AssetKind": "All",
@@ -112,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo0.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo10.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo1.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
+      "BasePath": "_content/TP04-PaquetesTuristicos-Final",
+      "RelativePath": "img/aereo1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\aereo1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo10.jpg",
+      "SourceId": "TP04-PaquetesTuristicos-Final",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo10.jpg",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo10.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo2.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo2.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo2.jpg",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo3.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo3.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo3.jpg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo3.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo4.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo4.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo4.jpg",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo4.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo5.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo5.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo5.jpg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo5.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo6.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo6.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo6.jpg",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo6.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo7.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo7.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo7.jpg",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo7.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo8.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo8.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo8.jpg",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo8.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aereo9.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\aereo9.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/aereo9.jpg",
       "AssetKind": "All",
@@ -283,29 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo9.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\aero1.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion1.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
-      "BasePath": "_content/TP04-PaquetesTuristicos-Final",
-      "RelativePath": "img/aero1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\aero1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion1.jpg",
-      "SourceId": "TP04-PaquetesTuristicos-Final",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion1.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion1.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion10.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion10.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion10.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion10.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion2.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion2.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion2.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion2.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion3.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion3.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion3.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion3.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion4.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion4.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion4.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion4.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion5.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion5.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion5.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion5.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion6.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion6.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion6.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion6.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion7.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion7.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion7.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion7.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion8.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion8.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion8.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion8.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\excursion9.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\excursion9.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/excursion9.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion9.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel1.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel1.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel1.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel1.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel10.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel10.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel10.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel10.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel2.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel2.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel2.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel2.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel3.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel3.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel3.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel3.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel4.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel4.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel4.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel4.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel5.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel5.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel5.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel5.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel6.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel6.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel6.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel6.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel7.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel7.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel7.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel7.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel8.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel8.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel8.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel8.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\img\\hotel9.jpg",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\img\\hotel9.jpg",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "img/hotel9.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotel9.jpg"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\js\\site.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP04-PaquetesTuristicos-Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\95320323\\Documents\\TP04-PaquetesTuristicos-Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\95320323\\Downloads\\TP04-PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/TP04-PaquetesTuristicos-Final",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

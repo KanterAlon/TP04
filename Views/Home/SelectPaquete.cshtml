@@ -1,14 +1,10 @@
-<div>
-    <a href='@Url.Action("Index")'>Home</a>
-</div>
-
 @{
-    ViewData["Title"] = "Crear Paquete";
+    ViewBag.Title = "Crear Paquete";
 }
 
-<h2>Crear Paquete</h2>
+<h2>Seleccionar Paquete</h2>
 
-<form asp-action="GuardarPaquete" method="post">
+<form class="formCrearPaquete" action='@Url.Action("GuardarPaquete", "Home")'>
     <div>
         <label for="destino">Destino:</label>
         <select id="destino" name="Destino">
@@ -21,18 +17,33 @@
     
     <div>
         <label for="hotel">Hotel:</label>
-        <input type="number" id="hotel" name="Hotel" min="1" max="10" required />
+        <select id="hotel" name="Hotel">
+            @foreach (var hotel in ViewBag.ListaHoteles)
+            {
+                <option value="@hotel">@hotel</option>
+            }
+        </select>
     </div>
-
+    
     <div>
         <label for="aereo">Aéreo:</label>
-        <input type="number" id="aereo" name="Aereo" min="1" max="10" required />
+        <select id="aereo" name="Aereo">
+            @foreach (var aereo in ViewBag.ListaAereos)
+            {
+                <option value="@aereo">@aereo</option>
+            }
+        </select>
     </div>
-
+    
     <div>
         <label for="excursion">Excursión:</label>
-        <input type="number" id="excursion" name="Excursion" min="1" max="10" required />
+        <select id="excursion" name="Excursion">
+            @foreach (var excursion in ViewBag.ListaExcursiones)
+            {
+                <option value="@excursion">@excursion</option>
+            }
+        </select>
     </div>
-
-    <button type="submit">Crear Paquete</button>
+    
+    <button type="submit">Seleccionar Paquete</button>
 </form>

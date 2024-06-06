@@ -45,39 +45,29 @@
 
 </style>
 
-<div class="text-center">
-    <h1 class="display-4">Bienvenido Julian Medina</h1>
-</div>
-
-@{
-    int destinoIndex = 0;
-    List<string> destinos = (List<string>)ViewBag.ListaDestinos;
-    List<string> hoteles = (List<string>)ViewBag.ListaHoteles;
-    List<string> excursiones = (List<string>)ViewBag.ListaExcursiones;
-    List<string> aereos = (List<string>)ViewBag.ListaAereos;
-
-    if (destinos != null && hoteles != null && excursiones != null && aereos != null)
-    {
-        int count = Math.Min(Math.Min(destinos.Count, hoteles.Count), Math.Min(excursiones.Count, aereos.Count));
-
-        for (int i = 0; i < count; i++)
-        {
-            <h2>Destino @i</h2>
-            <p><strong>Destino:</strong> @destinos[i]</p>
-            <h3>Hotel</h3>
-            <img src="/img/@hoteles[i]" width="200" height="auto" alt="Hotel @i"/>
-            <h3>Excursión</h3>
-            <img src="/img/@excursiones[i]" width="200" height="auto" alt="Excursión @i"/>
-            <h3>Aéreo</h3>
-            <img src="/img/@aereos[i]" width="200" height="auto" alt="Aéreo @i"/>
-        }
-    }
-    else
-    {
-        <p>Información no disponible. Verifique que todas las listas de datos estén correctamente inicializadas.</p>
-    }
-}
-
 <div>
-    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
+    <a class="linkSelectPaquete" href="@Url.Action("SelectPaquete", "Home")">Seleccionar Paquete</a>
 </div>
+
+
+<h2 class="tituloPagina">Lista de Paquetes Turísticos</h2>
+
+@if (ViewBag.Paquetes != null && ViewBag.Paquetes.Count > 0)
+{
+    <div class="paquetes">
+        @foreach (var paquete in ViewBag.Paquetes)
+        {   
+            <div>
+                <b>Destino:</b> <h3>@paquete.Key</h3>
+
+                <b>Hotel:</b> <img src="/img/@Url.Content(paquete.Value.Hotel)" alt="Hotel Image" style="height: 200px;"/>
+                <b>Aéreo:</b> <img src="/img/@Url.Content(paquete.Value.Aereo)" alt="Aereo Image" style="height: 200px;"/>
+                <b>Excursión:</b> <img src="/img/@Url.Content(paquete.Value.Excursion)" alt="Excursion Image" style="height: 200px;" />
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No hay paquetes disponibles.</p>
+}
